@@ -1,0 +1,190 @@
+{
+  "quiz": {
+    "metadata": {
+      "started_on": "Monday, 17 November 2025, 5:18 PM",
+      "completed_on": "Monday, 17 November 2025, 5:29 PM",
+      "time_taken": "11 mins 8 secs",
+      "marks": "6.00/100.00",
+      "grade": "0.60 out of 10.00 (6%)",
+      "state": "Finished"
+    },
+    "questions": [
+  {
+    "number": 4,
+    "type": "multichoice-multi",
+    "state": "Incorrect",
+    "score": 0.0,
+    "content": {
+      "text": "Khảo sát chi phí sản xuất X và sản lượng Y của 10 công ty cùng loại, để đánh giá sự phụ thuộc giữa X và Y, bạn dùng, chọn tất cả: *",
+      "answers": [
+        { "id": 0, "text": "d. Moving Average", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "b. CORREL", "is_correct": true, "is_selected": true },
+        { "id": 2, "text": "a. Descriptive Statisties", "is_correct": false, "is_selected": true },
+        { "id": 3, "text": "c. Correlation", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answers are: b. CORREL, c. Correlation"
+  },
+  {
+    "number": 91,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Chọn phát biểu đúng nhất",
+      "answers": [
+        { "id": 0, "text": "Khi nhập liệu số, ngày tháng và văn bản tự động canh trái", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Khi nhập số, ngày tháng và văn bản tự động canh phải", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Khi nhập số, ngày tháng tự động canh trái, văn bản tự động canh phải", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Khi nhập số, ngày tháng tự động canh phải, văn bản tự động canh trái", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Khi nhập số, ngày tháng tự động canh phải, văn bản tự động canh trái"
+  },
+  {
+    "number": 92,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Những từ khoá nào sau đây **không** dùng trong VBA.",
+      "answers": [
+        { "id": 0, "text": "a. Dim", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "c. End", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "d. Abc", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "b. As", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: d. Abc"
+  },
+  {
+    "number": 93,
+    "type": "multichoice-multi",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Hàm Solver dùng để: (chọn tất cả)",
+      "answers": [
+        { "id": 0, "text": "c. áp dụng trong các bài toán như tính doanh thu hòa vốn, thay đổi nhiều chỉ tiêu chi phí nào đó để có được lợi nhuận như mong muốn, tính tổng chi phí cho tổng chi phí ròng phải trả.", "is_correct": true, "is_selected": false },
+        { "id": 1, "text": "d. Để giải bài toán a+b", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "a. để giải bài toán hệ phương trình", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "b. áp dụng trong các bài toán như tính doanh thu hòa vốn, thay đổi một chỉ tiêu chi phí nào đó để có được lợi nhuận như mong muốn, tính tổng chi phí cho tổng chi phí ròng phải trả..", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answers are: a. để giải bài toán hệ phương trình, c. áp dụng trong các bài toán như tính doanh thu hòa vốn, thay đổi nhiều chỉ tiêu chi phí nào đó để có được lợi nhuận như mong muốn, tính tổng chi phí cho tổng chi phí ròng phải trả."
+  },
+  {
+    "number": 94,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft excel 2010, các hàm nào sau đây dùng để tính khấu hao tài sản cố định:",
+      "answers": [
+        { "id": 0, "text": "IPMT(…), PPMT(), SLN(…)", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "SLN(…), PMT(…)", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "SLN(…), DB(…), DDB(…)", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "DB(), DDB(), NPER(…)", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: SLN(…), DB(…), DDB(…)"
+  },
+  {
+    "number": 95,
+    "type": "multichoice-multi",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Excel, để làm ẩn một sheet sau đó có thể cho hiện lại bằng lệnh Unhide, bạn sử dụng lựa chọn nào? (Chọn nhiều trả lời) *",
+      "answers": [
+        { "id": 0, "text": "a. Chuột phải vào thẻ sheet cần làm ẩn \\chọn Hide", "is_correct": true, "is_selected": false },
+        { "id": 1, "text": "b. Chọn toàn bộ bảng tính, vào Home\\Format\\Hide & Unhide \\Hide Columns", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "c. Chọn toàn bộ bảng tính, chuột phải tại 1 dòng bất kỳ \\ chọn Hide", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "d. Vào Home\\Format\\Hide & Unhide \\ Hide Sheet", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answers are: Vào Home\\Format\\Hide & Unhide \\ Hide Sheet, Chuột phải vào thẻ sheet cần làm ẩn \\chọn Hide"
+  },
+  {
+    "number": 96,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft excel2010, hàm nào dưới đây được dùng để đếm giá trị thỏa nhiều điều kiện.",
+      "answers": [
+        { "id": 0, "text": "SUMIFS", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "COUNTIFS", "is_correct": true, "is_selected": false },
+        { "id": 2, "text": "SUMIF", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "SUMS", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: COUNTIFS"
+  },
+  {
+    "number": 97,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft Excel 2010, giả sử dòng đầu tiên trong bảng tính có chứa các tiêu đề, muốn cố định dòng tiêu đề này để đảm bảo rằng các tiêu đề cột vẫn được hiển thị khi di chuyển lên xuống trong bảng tính đó thì dùng chức năng nào sau đây?",
+      "answers": [
+        { "id": 0, "text": "a. Vào menu View tại nhóm Window ta chọn Hide", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "b. Vào menu View tại nhóm Window ta chọn New Window", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "c. Vào menu View tại nhóm Window ta chọn Freeze Panes", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "d. Vào menu View tại nhóm Window ta chọn Arrange All", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Vào menu View tại nhóm Window ta chọn Freeze Panes"
+  },
+  {
+    "number": 98,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft excel 2010, để xóa nội dung chỉ của một ô nằm trong một dãy ô chứa một công thức mảng, lựa chọn nào sau đây là đúng:",
+      "answers": [
+        { "id": 0, "text": "Không thể thực hiện được", "is_correct": true, "is_selected": false },
+        { "id": 1, "text": "Click chuột vào ô đó để chọn, sau đó bấm phím Delete", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Click chuột vào ô đó để chọn, sau đó bấm Ctrl+ Delete", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Chọn toàn bộ dãy ô chứa công thức mảng có chứa ô cần xóa, bấm phím Delete", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Không thể thực hiện được"
+  },
+  {
+    "number": 99,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong bảng tính Excel, hàm nào dùng để tìm kiếm:",
+      "answers": [
+        { "id": 0, "text": "Left", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Sum", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "IF", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Vlookup", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Vlookup"
+  },
+  {
+    "number": 100,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Có mấy cách giải quyết bài toán data table:",
+      "answers": [
+        { "id": 0, "text": "B 2", "is_correct": true, "is_selected": false },
+        { "id": 1, "text": "C 3", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "D 4", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "A 1", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: B 2"
+        }
+    ]
+  }
+}

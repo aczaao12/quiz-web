@@ -1,0 +1,174 @@
+{
+  "quiz": {
+    "metadata": {
+      "started_on": "Monday, 17 November 2025, 5:18 PM",
+      "completed_on": "Monday, 17 November 2025, 5:29 PM",
+      "time_taken": "11 mins 8 secs",
+      "marks": "6.00/100.00",
+      "grade": "0.60 out of 10.00 (6%)",
+      "state": "Finished"
+    },
+    "questions": [
+  {
+    "number": 51,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong bảng tính Excel, cho biết công thức đúng:",
+      "answers": [
+        { "id": 0, "text": "HLOOKUP(A7,$I$12:$L$15,0,2,FALSE)", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "HLOOKUP(A7,$I$12:$L$15,2,FALSE)", "is_correct": true, "is_selected": false },
+        { "id": 2, "text": "HLOOKUP(A7,$I$12:$L$15,2&2,FALSE)", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "HLOOKUP(A7,$I$12:$L$15,2,2,FALSE)", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: HLOOKUP(A7,$I$12:$L$15,2,FALSE)"
+  },
+  {
+    "number": 52,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Excel, giả sử ô A4 chứa kết quả một công thức, để sao chép kết quả (chỉ lấy giá trị) trên vào ô A8, bạn sử dụng lựa chọn nào?",
+      "answers": [
+        { "id": 0, "text": "Tại ô A4 \\ Copy, tại ô A8 \\ Paste", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Tại ô A8 \\ Copy, tại ô A4 \\ Paste Special, chọn Formula", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Tại ô A4 \\ Copy, tại ô A8 \\ Paste Special, chọn Formula", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Tại ô A4 \\ Copy, tại ô A8 \\ Paste Special, chọn Value", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Tại ô A4 \\ Copy, tại ô A8 \\ Paste Special, chọn Value"
+  },
+  {
+    "number": 53,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Excel, để tạo một liên kết từ ô A40 đến 1 trang web, bạn sử dụng lựa chọn nào trong hộp Link To?",
+      "answers": [
+        { "id": 0, "text": "Email Address", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Existing File or Web Page", "is_correct": true, "is_selected": false },
+        { "id": 2, "text": "Cả 3 lựa chọn trên đều sai", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Place in This Document", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Existing File or Web Page"
+  },
+  {
+    "number": 54,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Xác định số tiền vốn phải trả mỗi tháng",
+      "answers": [
+        { "id": 0, "text": "b. IPMT", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "c. PMT", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "d. FV", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "a. PPMT", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: a. PPMT"
+  },
+  {
+    "number": 55,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft Excel 2010, một hàm được tạo ra bởi VBA:",
+      "answers": [
+        { "id": 0, "text": "Để dùng được hàm này ta phải bỏ mật khẩu bảo vệ bảng tính", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Để dùng được hàm này ta phải tắt (Disabled) chế độ protected view trong Trusted center", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Để dùng được hàm này ta phải tắt (Disabled) chế độ chặn Macro trong Macro setting", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "Luôn có hiệu lực và luôn có thể dùng được trong Workbook đi kèm như một hàm có sẳn", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Để dùng được hàm này ta phải tắt (Disabled) chế độ chặn Macro trong Macro setting"
+  },
+  {
+    "number": 56,
+    "type": "multichoice-multi",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Khi nhập dữ liệu ngày tháng vào ô, cần chú ý:",
+      "answers": [
+        { "id": 0, "text": "Định dạng ngày trong hệ thống máy tính", "is_correct": true, "is_selected": false },
+        { "id": 1, "text": "Thiết lập lại kiểu ngày đang sử dụng trong bảng tính excel", "is_correct": true, "is_selected": false },
+        { "id": 2, "text": "Chỉnh lại giao diện", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Chỉnh lại phần mềm gõ tiếng việt", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answers are: Định dạng ngày trong hệ thống máy tính, Thiết lập lại kiểu ngày đang sử dụng trong bảng tính excel"
+  },
+  {
+    "number": 57,
+    "type": "multichoice-multi",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Cho một CSDL quản lý về thông tin bán hàng, trong đó có các thuộc tính (tên sản phẩm, số lượng, đơn giá, thành tiền), hãy tính tổng thành tiền của sản phẩm có số lượng trên 10, ta dùng (chọn tất cả):",
+      "answers": [
+        { "id": 0, "text": "d. DSum(…)", "is_correct": true, "is_selected": false },
+        { "id": 1, "text": "b. Sumifs(…)", "is_correct": true, "is_selected": false },
+        { "id": 2, "text": "c. {Sum(X* (…))}", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "a. Sum(…)", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answers are: b. Sumifs(…), c. {Sum(X* (…))}, d. DSum(…)"
+  },
+  {
+    "number": 58,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Ý nghĩa của hàm Sumproduct",
+      "answers": [
+        { "id": 0, "text": "Tổng có điều kiện", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Tổng sản phẩm", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Tổng của tích", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "Tổng và đếm", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Tổng của tích"
+  },
+  {
+    "number": 59,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Excel hàm DDB có mục đích gì:",
+      "answers": [
+        { "id": 0, "text": "Tính thuế thu nhập", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Tính Khấu hao bằng phương pháp cân đối giảm kép", "is_correct": true, "is_selected": false },
+        { "id": 2, "text": "Tính Khấu hao luỹ kế", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Tính khấu hao đều", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Tính Khấu hao bằng phương pháp cân đối giảm kép"
+  },
+  {
+    "number": 60,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft Excel 2010, để bảo vệ bảng tính, không cho phép người dùng thêm/xóa/ẩn các sheet và thay đổi vị trí cũng như kích thước cửa sổ của bảng tính trong khi vẫn cho phép mở file bảng tính. Lựa chọn nào sau đây là đúng nhất:",
+      "answers": [
+        { "id": 0, "text": "Thực hiện lệnh : File ( Info ( Protect Workbook ( Encrypt with password", "is_correct": true, "is_selected": false },
+        { "id": 1, "text": "Thực hiện lệnh: Review (Changes (Protect Workbook", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Không cho phép bảo vệ bảng tính theo yêu cầu đã cho", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Thực hiện lệnh: Review (Changes (Protect Worksheet", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Thực hiện lệnh : File ( Info ( Protect Workbook ( Encrypt with password"
+      }
+    ]
+  }
+}

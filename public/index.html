@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <div id="quiz-selection-container">
+            <h1>Select a Quiz</h1>
+            <div class="search-bar">
+                <input type="text" id="search-input" placeholder="Search questions...">
+                <button id="search-button" class="btn">Search</button>
+            </div>
+            <div id="search-results-container" class="hide">
+                <h2>Search Results</h2>
+                <div id="search-results-list"></div>
+                <button id="back-from-search" class="btn hide">Back to Quizzes</button>
+            </div>
+            <div id="quiz-categories"></div>
+            <div id="quiz-list" class="btn-grid"></div>
+            <button id="back-to-categories" class="hide">Back to Categories</button>
+        </div>
+
+        <div id="quiz-game-container" class="hide">
+            <h1>Simple Quiz</h1>
+            <div id="question-container">
+                <p id="question-text"></p>
+                <div id="answer-buttons" class="btn-grid"></div>
+            </div>
+            <div id="feedback-container"></div>
+            <button id="next-button" class="hide">Next Question</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

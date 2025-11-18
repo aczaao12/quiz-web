@@ -1,0 +1,190 @@
+{
+  "quiz": {
+    "metadata": {
+      "started_on": "Monday, 17 November 2025, 5:18 PM",
+      "completed_on": "Monday, 17 November 2025, 5:29 PM",
+      "time_taken": "11 mins 8 secs",
+      "marks": "6.00/100.00",
+      "grade": "0.60 out of 10.00 (6%)",
+      "state": "Finished"
+    },
+    "questions": [
+  {
+    "number": 4,
+    "type": "multichoice-multi",
+    "state": "Incorrect",
+    "score": 0.0,
+    "content": {
+      "text": "Khảo sát chi phí sản xuất X và sản lượng Y của 10 công ty cùng loại, để đánh giá sự phụ thuộc giữa X và Y, bạn dùng, chọn tất cả: *",
+      "answers": [
+        { "id": 0, "text": "d. Moving Average", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "b. CORREL", "is_correct": true, "is_selected": true },
+        { "id": 2, "text": "a. Descriptive Statisties", "is_correct": false, "is_selected": true },
+        { "id": 3, "text": "c. Correlation", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answers are: b. CORREL, c. Correlation"
+  },
+  {
+    "number": 61,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Để tổng hợp dữ liệu (đếm, tổng, trung bình,…) theo từng nhóm có trong một danh sách, ta dùng:",
+      "answers": [
+        { "id": 0, "text": "b. count(…)", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "a. Sum(…)", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "c. Subtotal", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "d. Advanced Filter.", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: c. Subtotal"
+  },
+  {
+    "number": 62,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Excel, để bảo vệ trang tính bằng mật khẩu, bạn sử dụng lựa chọn nào sau đây?",
+      "answers": [
+        { "id": 0, "text": "File\\Protect \\ Protect Sheet", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Cả 3 lựa chọn trên đều sai", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Review\\Protect \\ Protect Sheet", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Review\\Changes \\ Protect Sheet", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Review\\Changes \\ Protect Sheet"
+  },
+  {
+    "number": 63,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Để tổng hợp dữ liệu (đếm, tính tổng, trung bình,…) theo phân cấp từng nhóm thuộc tính có trong một danh sách cho trước, bạn chọn",
+      "answers": [
+        { "id": 0, "text": "Lệnh Subtotal", "is_correct": true, "is_selected": false },
+        { "id": 1, "text": "Lệnh Sum", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Lệnh Sort", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Lệnh AdvancedFilter", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Lệnh Subtotal"
+  },
+  {
+    "number": 64,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong VBA kiểu dữ liệu Range có ý nghĩa gì:",
+      "answers": [
+        { "id": 0, "text": "biểu diễn trung bình cộng của các ô", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "biểu diễn giá trị trong ô", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "tất cả đều sai", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "biểu diễn 1 dãy các ô trong excel", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: biểu diễn 1 dãy các ô trong excel"
+  },
+  {
+    "number": 65,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong hàm các hàm CSDL có nên có dòng hoặc cột trống không?",
+      "answers": [
+        { "id": 0, "text": "tất cả đều sai", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "có thể có hoặc không", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "có", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "không", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: không"
+  },
+  {
+    "number": 66,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong bảng tính Excel, để xuống dòng trong ô dữ liệu, ta dùng tổ hợp phím:",
+      "answers": [
+        { "id": 0, "text": "Alt + Enter", "is_correct": true, "is_selected": false },
+        { "id": 1, "text": "Ctrl + EnTer", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Shift +Enter", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Ctrl + D", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Alt + Enter"
+  },
+  {
+    "number": 67,
+    "type": "multichoice-multi",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Để tạo một hàm do người dùng tự định nghĩa và vận dụng hàm đó vào excel, bạn dùng: (chọn tất cả)",
+      "answers": [
+        { "id": 0, "text": "b. VBA", "is_correct": true, "is_selected": false },
+        { "id": 1, "text": "c. Define name", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "d. Define methods", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "a. Visual Basic For Application", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answers are: a. Visual Basic For Application, b. VBA"
+  },
+  {
+    "number": 68,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft Excel 2010, để hoàn tất việc nhập vào công thức mảng:",
+      "answers": [
+        { "id": 0, "text": "Bấm tổ hợp phím Ctrl+Enter", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Bấm phím Enter", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Bấm tổ hợp phím Ctrl+Shift+Enter", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "Bấm tổ hợp phím Shift+Enter", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Bấm tổ hợp phím Ctrl+Shift+Enter"
+  },
+  {
+    "number": 69,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Để quay trở lại thao tác vừa chỉnh sửa trong đang chọn ta dùng lệnh nào sau đây:",
+      "answers": [
+        { "id": 0, "text": "Nhấn Ctrl+y", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Nhấn Ctrl+c", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Nhấn Ctrl+x", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Nhấn Ctrl+z", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Nhấn Ctrl+z"
+  },
+  {
+    "number": 70,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Giá trị tại ô F4 chứa điểm trung bình là 8. Công thức tại ô H4: =IF(F4=10,”Xuất sắc”,IF(F4>8,”Giỏi”,IF(F4>6.5,”Khá”,”Trung bình”))). Kết quả trả về tại ô H4 là:",
+      "answers": [
+        { "id": 0, "text": "Trung bình", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Khá", "is_correct": true, "is_selected": false },
+        { "id": 2, "text": "Giỏi", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Xuất sắc", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Khá"
+      }
+    ]
+  }
+}

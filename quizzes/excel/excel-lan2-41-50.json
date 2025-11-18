@@ -1,0 +1,174 @@
+{
+  "quiz": {
+    "metadata": {
+      "started_on": "Monday, 17 November 2025, 5:18 PM",
+      "completed_on": "Monday, 17 November 2025, 5:29 PM",
+      "time_taken": "11 mins 8 secs",
+      "marks": "6.00/100.00",
+      "grade": "0.60 out of 10.00 (6%)",
+      "state": "Finished"
+    },
+    "questions": [
+  {
+    "number": 41,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Để đặt mật khẩu cho một file bảng tính trong Excel 2010, thực hiện nào sau đây là đúng:",
+      "answers": [
+        { "id": 0, "text": "File - Info - Protected Workbook", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Review - chọn Protect", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Home - Font - Protection", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Review - trong nhóm Changes chọn Protect Workbook", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Review - trong nhóm Changes chọn Protect Workbook"
+  },
+  {
+    "number": 42,
+    "type": "multichoice-multi",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Hàm Solver dùng để: (chon tat ca)",
+      "answers": [
+        { "id": 0, "text": "để giải bài toán hệ phương trình", "is_correct": true, "is_selected": false },
+        { "id": 1, "text": "áp dụng trong các bài toán như tính doanh thu hòa vốn, thay đổi một chỉ tiêu chi phí nào đó để có được lợi nhuận như mong muốn, tính tổng chi phí cho tổng chi phí ròng phải trả..", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "áp dụng trong các bài toán như tính doanh thu hòa vốn, thay đổi nhiều chỉ tiêu chi phí nào đó để có được lợi nhuận như mong muốn, tính tổng chi phí cho tổng chi phí ròng phải trả.", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "Để giải bài toán a+b", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answers are: để giải bài toán hệ phương trình, áp dụng trong các bài toán như tính doanh thu hòa vốn, thay đổi nhiều chỉ tiêu chi phí nào đó để có được lợi nhuận như mong muốn, tính tổng chi phí cho tổng chi phí ròng phải trả."
+  },
+  {
+    "number": 43,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft Excel 2010, để sao chép nội dung hay công thức trong một khối ô đang chọn, chọn lựa nào sau đây là đúng:",
+      "answers": [
+        { "id": 0, "text": "Bấm tổ hợp phím Ctrl+Z", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Bấm tổ hợp phím Ctrl+X", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Bấm tổ hợp phím Ctrl+C", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "Bấm tổ hợp phím Ctrl+Y", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Bấm tổ hợp phím Ctrl+C"
+  },
+  {
+    "number": 44,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Lệnh Consolidate có tác dụng gì?",
+      "answers": [
+        { "id": 0, "text": "Tính tong dữ liệu", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Đếm dữ liệu theo từng sản phẩm", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Tổng hợp dữ liệu do từng nguồn khác nhau", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "Gom nhóm dữ liệu", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Tổng hợp dữ liệu do từng nguồn khác nhau"
+  },
+  {
+    "number": 45,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong bảng tính Excel, để lưu tập tin đang mở dưới một tên khác, ta chọn:",
+      "answers": [
+        { "id": 0, "text": "Edit / Replace", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "File / Save", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "File / New", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "File / Save As", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: File / Save As"
+  },
+  {
+    "number": 46,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trường điều kiện nào trong data validation cho phép ràng buộc độ dài chuỗi nhập vào:",
+      "answers": [
+        { "id": 0, "text": "text length", "is_correct": true, "is_selected": false },
+        { "id": 1, "text": "text size", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Decima", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Top value", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: text length"
+  },
+  {
+    "number": 47,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong bảng tính Excel 2010, chức năng Data \\Data Validation\\ Settings \\ Text length dùng để làm gì? *",
+      "answers": [
+        { "id": 0, "text": "Ràng buộc dữ liệu trên các ô bảng tính khi nhập vào chỉ cho phép nhập vào là chuỗi", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Tất cả đều đúng", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Ràng buộc dữ liệu trên các ô bảng tính khi nhập vào chỉ cho phép nhập vào là chuỗi có chiều dài xác định", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "Xuất kết quả tính toán chỉ là chuỗi", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Ràng buộc dữ liệu trên các ô bảng tính khi nhập vào chỉ cho phép nhập vào là chuỗi có chiều dài xác định"
+  },
+  {
+    "number": 48,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft Excel 2010, để bật chức năng Track Changes ta thực hiện các bước.",
+      "answers": [
+        { "id": 0, "text": "Insent \\ Track Changes \\ Highlight Changes và check vào Highlight Changes while editing", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Review \\ Track Changes \\ Highlight Changes và check vào Highlight Changes while editing", "is_correct": true, "is_selected": false },
+        { "id": 2, "text": "Home \\ Track Changes \\ Highlight Changes và check vào Highlight Changes while editing", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "View \\ Track Changes \\ Highlight Changes và check vào Highlight Changes while editing", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Review \\ Track Changes \\ Highlight Changes và check vào Highlight Changes while editing"
+  },
+  {
+    "number": 49,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trước khi tạo bảng Pivot Table, ta phải kiểm tra lại xem bảng tính đã :",
+      "answers": [
+        { "id": 0, "text": "b. Đã có vù ng tổng hợp chưa", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "a. Đã sort theo thứ tự chưa.", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "d. Không cần gì thêm", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "c. Đã là tiêu chuẩn của cơ sở dữ liệu chưa", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: c. Đã là tiêu chuẩn của cơ sở dữ liệu chưa"
+  },
+  {
+    "number": 50,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft excel2010, khi sử dụng hàm kết quả trả về #REF!là lổi gì?",
+      "answers": [
+        { "id": 0, "text": "Chia cho giá trị 0", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Ô chứa dữ liệu không đủ rộng", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Sai vùng tham chiếu.", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "Không tìm thấy giá trị dò.", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Sai vùng tham chiếu."
+       }
+    ]
+  }
+}

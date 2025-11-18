@@ -1,0 +1,190 @@
+{
+  "quiz": {
+    "metadata": {
+      "started_on": "Monday, 17 November 2025, 5:18 PM",
+      "completed_on": "Monday, 17 November 2025, 5:29 PM",
+      "time_taken": "11 mins 8 secs",
+      "marks": "6.00/100.00",
+      "grade": "0.60 out of 10.00 (6%)",
+      "state": "Finished"
+    },
+    "questions": [
+  {
+    "number": 4,
+    "type": "multichoice-multi",
+    "state": "Incorrect",
+    "score": 0.0,
+    "content": {
+      "text": "Khảo sát chi phí sản xuất X và sản lượng Y của 10 công ty cùng loại, để đánh giá sự phụ thuộc giữa X và Y, bạn dùng, chọn tất cả: *",
+      "answers": [
+        { "id": 0, "text": "d. Moving Average", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "b. CORREL", "is_correct": true, "is_selected": true },
+        { "id": 2, "text": "a. Descriptive Statisties", "is_correct": false, "is_selected": true },
+        { "id": 3, "text": "c. Correlation", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answers are: b. CORREL, c. Correlation"
+  },
+  {
+    "number": 71,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Chức năng Conditional Formating để làm gì:",
+      "answers": [
+        { "id": 0, "text": "Ràng Buộc Nhập Dữ Liệu", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Thống Kê Nhập Dữ Liệu", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Định dạng có điều kiện", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "Tính Tổng Có Điểu Kiện", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Định dạng có điều kiện"
+  },
+  {
+    "number": 72,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong bảng tính Excel, khi thực hiện công thức thông báo lỗi nào sau đây cho biết người sử dụng nhập sai tên hàm hoặc chuỗi không đặt trong cặp dấu “ ”",
+      "answers": [
+        { "id": 0, "text": "#Value!", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "#Div/0 !", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "#REF!", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "#Name?", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: #Name?"
+  },
+  {
+    "number": 73,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft Excel 2010, tại hộp thoại Paste Special để chỉ sao chép giá trị thì chọn:",
+      "answers": [
+        { "id": 0, "text": "Values", "is_correct": true, "is_selected": false },
+        { "id": 1, "text": "Formulas", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Comments", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Formats", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Values"
+  },
+  {
+    "number": 74,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Excel, để đặt tên một vùng gồm nhiều ô, bạn sử dụng lựa chọn nào?",
+      "answers": [
+        { "id": 0, "text": "Formulas – Define Name – đặt tên vùng và chọn vùng cần đặt tên", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Formulas – Chọn Name Manager – New – đặt tên vùng và chọn vùng cần đặt tên", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Cả 2 lựa chọn đều sai", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Cả 2 lựa chọn đều đúng", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Cả 2 lựa chọn đều đúng"
+  },
+  {
+    "number": 75,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Câu nào sau đây đúng? Khi nhập dữ liệu vào bảng tính Excel thì:",
+      "answers": [
+        { "id": 0, "text": "Dữ liệu kiểu số sẽ mặc nhiên căn thẳng lề trái", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Dữ liệu kiểu kí tự sẽ mặc nhiên căn thẳng lề phải", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Dữ liệu kiểu thời gian sẽ mặc nhiên căn thẳng lề trái", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Dữ liệu kiểu ngày tháng sẽ mặc nhiên căn thẳng lề phải", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Dữ liệu kiểu ngày tháng sẽ mặc nhiên căn thẳng lề phải"
+  },
+  {
+    "number": 76,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Xác định số tiền vốn và lãi phải trả mỗi tháng",
+      "answers": [
+        { "id": 0, "text": "d. FV", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "b. IPMT", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "a. PPMT", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "c. PMT", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: c. PMT"
+  },
+  {
+    "number": 77,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Hàm weekday trả về gì?",
+      "answers": [
+        { "id": 0, "text": "Thứ trong tuần", "is_correct": true, "is_selected": false },
+        { "id": 1, "text": "Tháng chẵn trong năm", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Ngày lẻ trong tuần", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Ngày trong tuần", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Thứ trong tuần"
+  },
+  {
+    "number": 78,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong một trang bảng tính Excel 2010, để ngăn chặn người dùng thay đổi nội dung trong một số ô của bảng tính và cho phép thay đổi nội dung của các ô còn lại. Thực hiện nào sau đây là đúng nhất:",
+      "answers": [
+        { "id": 0, "text": "Không thể bảo vệ chỉ một phần của trang bảng tính như yêu cầu", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Chọn khối ô cần bảo vệ, thực hiện lệnh: Home ( Font ( Trong thẻ Protection chọn Locked, sau đó thực hiện lệnh Review ( Protect worksheet", "is_correct": true, "is_selected": false },
+        { "id": 2, "text": "Chọn khối ô cần bảo vệ, thực hiện lệnh Review ( Protect worksheet", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Chọn khối ô cần bảo vệ, thực hiện lệnh: Home ( Font ( Trong thẻ Protection chọn Locked", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Chọn khối ô cần bảo vệ, thực hiện lệnh: Home ( Font ( Trong thẻ Protection chọn Locked, sau đó thực hiện lệnh Review ( Protect worksheet"
+  },
+  {
+    "number": 79,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Một người gửi vào ngân hàng $10,000 với lãi suất 5% một năm, và trong các năm sau, mỗi năm gửi thêm vào $200, trong 10 năm. Vậy khi đáo hạn (10 năm sau), người đó sẽ có được số tiền là bao nhiêu ?",
+      "answers": [
+        { "id": 0, "text": "PPMT", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "PV", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "PMT", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "FV", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: FV"
+  },
+  {
+    "number": 80,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Muốn tô màu vàng cho vùng dữ liệu A1:A10, ta dùng:",
+      "answers": [
+        { "id": 0, "text": "Format as Cells", "is_correct": true, "is_selected": false },
+        { "id": 1, "text": "Format as Table", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Conditional Formatting", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Styles", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Format as Cells"
+       }
+    ]
+  }
+}

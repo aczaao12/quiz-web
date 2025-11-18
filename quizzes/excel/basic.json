@@ -1,0 +1,194 @@
+{
+  "quiz": {
+    "metadata": {
+      "started_on": "Monday, 17 November 2025, 5:18 PM",
+      "completed_on": "Monday, 17 November 2025, 5:29 PM",
+      "time_taken": "11 mins 8 secs",
+      "marks": "6.00/100.00",
+      "grade": "0.60 out of 10.00 (6%)",
+      "state": "Finished"
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "multichoice",
+        "state": "Correct",
+        "score": 1.0,
+        "content": {
+          "text": "Trong Excel, muốn tính toán lại toàn bộ các công thức trong 1 sheet, bạn sử dụng lựa chọn nào?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Formulas \\ nhóm Calculation \\Calculate Sheet",
+              "is_correct": true,
+              "is_selected": true
+            },
+            {
+              "id": 1,
+              "text": "Nhấn F9",
+              "is_correct": false,
+              "is_selected": false
+            },
+            {
+              "id": 2,
+              "text": "Formulas \ nhóm Calculation \Calculate Now",
+              "is_correct": false,
+              "is_selected": false
+            },
+            {
+              "id": 3,
+              "text": "Nhấn Ctrl+F9",
+              "is_correct": false,
+              "is_selected": false
+            }
+          ]
+        },
+        "feedback": "The correct answer is: Formulas \ nhóm Calculation \Calculate Sheet"
+      },
+      {
+        "number": 2,
+        "type": "multichoice",
+        "state": "Correct",
+        "score": 1.0,
+        "content": {
+          "text": "Lệnh Subtotal nằm ở đâu?",
+          "answers": [
+            { "id": 0, "text": "Insert/Outlite/Subtotal", "is_correct": false, "is_selected": false },
+            { "id": 1, "text": "Data validation/Subtotal", "is_correct": false, "is_selected": false },
+            { "id": 2, "text": "Home/Data/Subtotal", "is_correct": false, "is_selected": false },
+            { "id": 3, "text": "Data/Outline/Subtotal", "is_correct": true, "is_selected": true }
+          ]
+        },
+        "feedback": "The correct answer is: Data/Outline/Subtotal"
+      },
+      {
+        "number": 3,
+        "type": "multichoice",
+        "state": "Incorrect",
+        "score": 0.0,
+        "content": {
+          "text": "Trong Microsoft excel 2010, để hiệu chỉnh công thức mảng của một khối ô, phát biểu nào đây đúng:",
+          "answers": [
+            { "id": 0, "text": "Click chuột vào ô đó để chọn, sau đó bấm phím Delete", "is_correct": false, "is_selected": true },
+            { "id": 1, "text": "Không thể thực hiện được", "is_correct": true, "is_selected": false },
+            { "id": 2, "text": "Chọn toàn bộ dãy ô chứa công thức mảng có chứa ô cần xóa, bấm phím Delete", "is_correct": false, "is_selected": false },
+            { "id": 3, "text": "Click chuột vào ô đó để chọn, sau đó bấm Ctrl+ Delete", "is_correct": false, "is_selected": false }
+          ]
+        },
+        "feedback": "The correct answer is: Không thể thực hiện được"
+      },
+      {
+        "number": 4,
+        "type": "multichoice-multi",
+        "state": "Incorrect",
+        "score": 0.0,
+        "content": {
+          "text": "Khảo sát chi phí sản xuất X và sản lượng Y của 10 công ty cùng loại, để đánh giá sự phụ thuộc giữa X và Y, bạn dùng, chọn tất cả: *",
+          "answers": [
+            { "id": 0, "text": "d. Moving Average", "is_correct": false, "is_selected": false },
+            { "id": 1, "text": "b. CORREL", "is_correct": true, "is_selected": true },
+            { "id": 2, "text": "a. Descriptive Statisties", "is_correct": false, "is_selected": true },
+            { "id": 3, "text": "c. Correlation", "is_correct": true, "is_selected": false }
+          ]
+        },
+        "feedback": "The correct answers are: b. CORREL, c. Correlation"
+      },
+      {
+        "number": 5,
+        "type": "multichoice",
+        "state": "Correct",
+        "score": 1.0,
+        "content": {
+          "text": "Trong ngôn ngữ lập trình VBA thì kiểu dữ liệu byte có ý nghĩa gì:",
+          "answers": [
+            { "id": 0, "text": "Lưu số nguyên dưới 255", "is_correct": true, "is_selected": true },
+            { "id": 1, "text": "Lưu số thực trên 200", "is_correct": false, "is_selected": false },
+            { "id": 2, "text": "Lưu số  nguyên dưới 100", "is_correct": false, "is_selected": false },
+            { "id": 3, "text": "Lưu Chuỗi kí tự", "is_correct": false, "is_selected": false }
+          ]
+        },
+        "feedback": "The correct answer is: Lưu số nguyên dưới 255"
+      },
+      {
+        "number": 6,
+        "type": "multichoice",
+        "state": "Incorrect",
+        "score": 0.0,
+        "content": {
+          "text": "Trong Microsoft Excel 2010, để xem các thay đổi trang tính khi đã bật chức năng Track Changes ta thực hiện các bước.",
+          "answers": [
+            { "id": 0, "text": "Review \\ Track Changes \\ accept reject changes", "is_correct": true, "is_selected": false },
+            { "id": 1, "text": "View \\ view commet", "is_correct": false, "is_selected": false },
+            { "id": 2, "text": "Insent \\ view commet", "is_correct": false, "is_selected": false },
+            { "id": 3, "text": "Review \\ view Changes", "is_correct": false, "is_selected": true }
+          ]
+        },
+        "feedback": "The correct answer is: Review \ Track Changes \ accept reject changes"
+      },
+      {
+        "number": 7,
+        "type": "multichoice",
+        "state": "Incorrect",
+        "score": 0.0,
+        "content": {
+          "text": "Có mấy loại pivot table:",
+          "answers": [
+            { "id": 0, "text": "2", "is_correct": true, "is_selected": false },
+            { "id": 1, "text": "1", "is_correct": false, "is_selected": false },
+            { "id": 2, "text": "4", "is_correct": false, "is_selected": false },
+            { "id": 3, "text": "3", "is_correct": false, "is_selected": true }
+          ]
+        },
+        "feedback": "The correct answer is: 2"
+      },
+      {
+        "number": 8,
+        "type": "multichoice",
+        "state": "Correct",
+        "score": 1.0,
+        "content": {
+          "text": "Trường nào trong Data validation cho phép  dữ liệu là số thập phân?",
+          "answers": [
+            { "id": 0, "text": "Decima", "is_correct": true, "is_selected": true },
+            { "id": 1, "text": "Text Size", "is_correct": false, "is_selected": false },
+            { "id": 2, "text": "Whole number", "is_correct": false, "is_selected": false },
+            { "id": 3, "text": "Double", "is_correct": false, "is_selected": false }
+          ]
+        },
+        "feedback": "The correct answer is: Decima"
+      },
+      {
+        "number": 9,
+        "type": "multichoice",
+        "state": "Incorrect",
+        "score": 0.0,
+        "content": {
+          "text": "Câu nào sau đây sai? Khi nhập dữ liệu vào bảng tính Excel thì:",
+          "answers": [
+            { "id": 0, "text": "Dữ liệu kiểu số sẽ mặc nhiên căn thẳng lề trái", "is_correct": true, "is_selected": false },
+            { "id": 1, "text": "Dữ liệu kiểu kí tự sẽ mặc nhiên căn thẳng lề trái", "is_correct": false, "is_selected": false },
+            { "id": 2, "text": "Dữ liệu kiểu thời gian sẽ mặc nhiên căn thẳng lề phải", "is_correct": false, "is_selected": false },
+            { "id": 3, "text": "Dữ liệu kiểu ngày tháng sẽ mặc nhiên căn thẳng lề phải", "is_correct": false, "is_selected": true }
+          ]
+        },
+        "feedback": "The correct answer is: Dữ liệu kiểu số sẽ mặc nhiên căn thẳng lề trái"
+      },
+      {
+        "number": 10,
+        "type": "multichoice",
+        "state": "Correct",
+        "score": 1.0,
+        "content": {
+          "text": "Ý nghĩa của hàm Match trong excel:",
+          "answers": [
+            { "id": 0, "text": "trả về vị trí của tương đối của trị dò", "is_correct": true, "is_selected": true },
+            { "id": 1, "text": "trả về dữ liệu cần tính", "is_correct": false, "is_selected": false },
+            { "id": 2, "text": "2 ý trên đều đúng", "is_correct": false, "is_selected": false },
+            { "id": 3, "text": "2 ý trên đều sai", "is_correct": false, "is_selected": false }
+          ]
+        },
+        "feedback": "The correct answer is: trả về vị trí của tương đối của trị dò"
+      }
+    ]
+  }
+}

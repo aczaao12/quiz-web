@@ -1,0 +1,190 @@
+{
+  "quiz": {
+    "metadata": {
+      "started_on": "Monday, 17 November 2025, 5:18 PM",
+      "completed_on": "Monday, 17 November 2025, 5:29 PM",
+      "time_taken": "11 mins 8 secs",
+      "marks": "6.00/100.00",
+      "grade": "0.60 out of 10.00 (6%)",
+      "state": "Finished"
+    },
+    "questions": [
+  {
+    "number": 4,
+    "type": "multichoice-multi",
+    "state": "Incorrect",
+    "score": 0.0,
+    "content": {
+      "text": "Khảo sát chi phí sản xuất X và sản lượng Y của 10 công ty cùng loại, để đánh giá sự phụ thuộc giữa X và Y, bạn dùng, chọn tất cả: *",
+      "answers": [
+        { "id": 0, "text": "d. Moving Average", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "b. CORREL", "is_correct": true, "is_selected": true },
+        { "id": 2, "text": "a. Descriptive Statisties", "is_correct": false, "is_selected": true },
+        { "id": 3, "text": "c. Correlation", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answers are: b. CORREL, c. Correlation"
+  },
+  {
+    "number": 81,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Khi cần lựa chọn một lúc nhiều ô không liền nhau trong bảng tính cần:",
+      "answers": [
+        { "id": 0, "text": "Nhấn Shift trên bàn phím kết hợp với thao tác click chuột trái vào các ô cần chọn", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Nhấn Alt trên bàn phím kết hợp với thao tác click chuột trái vào các ô cần chọn.", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Nhấn Ctrl trên bàn phím kết hợp với thao tác click chuột trái vào các ô cần chọn", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "Tất cả đều sai", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Nhấn Ctrl trên bàn phím kết hợp với thao tác click chuột trái vào các ô cần chọn"
+  },
+  {
+    "number": 82,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong ô D3 có chứa công thức = \"B3*C3\", để công thức có nghĩa và không bị báo lỗi thì, chọn câu trả lời đúng nhất",
+      "answers": [
+        { "id": 0, "text": "a. Là kiểu dữ liệu gì cũng được", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "b. Kiểu dữ liệu trong ô C3 phải là số", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "c. Kiểu dữ liệu trong ô B3, C3 đều là số", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "d. Kiểu dữ liệu trong ô B3 phải là số", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Kiểu dữ liệu trong ô B3, C3 đều là số"
+  },
+  {
+    "number": 83,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Excel dấu * và dấu ? đại diện cho điều gì:",
+      "answers": [
+        { "id": 0, "text": "một kí tự đã biết và nhóm kí tự chưa biết", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "C nhóm kí tự chưa biết và một kí tự chưa biết", "is_correct": true, "is_selected": false },
+        { "id": 2, "text": "nhóm kí tự chưa biết và 3 kí tự đã biết", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "D tất cả các ý trên đều sai", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: C nhóm kí tự chưa biết và một kí tự chưa biết"
+  },
+  {
+    "number": 84,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft excel 2010, lựa chọn nào sau đây để ẩn/hiện thanh Ribbon:",
+      "answers": [
+        { "id": 0, "text": "a. Trong thẻ View, chọn Show Ribbon", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "b. Bấm tổ hợp phím Ctrl+H", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "c. Bấm tổ hợp phím Ctrl + F1", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "d. Chọn thẻ Home, chọn Format Painter", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Bấm tổ hợp phím Ctrl + F1"
+  },
+  {
+    "number": 85,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft Excel 2010, để chấp nhận các thay đổi trang tính khi đã bật chức năng Track Changes ta thực hiện các bước.",
+      "answers": [
+        { "id": 0, "text": "Review \\ Track Changes \\ accept reject changes \\ acceptall", "is_correct": true, "is_selected": false },
+        { "id": 1, "text": "View \\ view commet\\ accept reject changes \\ accept all", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Review \\ view Changes\\ accept reject changes \\ accept all", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Insent \\ view commet\\ accept reject changes \\ accept all", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Review \\ Track Changes \\ accept reject changes \\ acceptall"
+  },
+  {
+    "number": 86,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft Excel 2010, sau khi làm thao tác chép dữ liệu, muốn hiển thị hộp thoại Paste Special để thực hiện thao tác dán đến nơi khác thì dùng tổ hợp phím nào sau đây?",
+      "answers": [
+        { "id": 0, "text": "a. Ctrl + P", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "b. Ctrl + Shift + V", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "c. Ctrl + O", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "d. Ctrl + Alt +V", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Ctrl + Alt +V"
+  },
+  {
+    "number": 87,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft Excel 2010, chọn phát biểu đúng nhất",
+      "answers": [
+        { "id": 0, "text": "Có thể chèn số trang một trong 2 phần Header hoặc Footer nhưng không thể trên cùng một trang in", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Không thể sử dụng chức năng chèn số trang trong phần Footer", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Có thể chèn số trang trong cả phần Header và Footer của bảng tính", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "Không thể sử dụng chức năng chèn số trang trong phần Header", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Có thể chèn số trang trong cả phần Header và Footer của bảng tính"
+  },
+  {
+    "number": 88,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "thông số Type = 1 trong hàm PMT của Excel có ý nghĩa gì:",
+      "answers": [
+        { "id": 0, "text": "lãi suất cho khoản vay", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "trả vào đầu tháng", "is_correct": true, "is_selected": false },
+        { "id": 2, "text": "trả vào cuối tháng", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "không trả đủ tiền", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: trả vào đầu tháng"
+  },
+  {
+    "number": 89,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Chọn phát biểu đúng nhất khi muốn xoá hết dữ liệu cùng dòng với ô tính đã chọn",
+      "answers": [
+        { "id": 0, "text": "Chọn ô tính và nhấn phải chuột, chọn delete, sau đó chọn Entire row, ok.", "is_correct": true, "is_selected": false },
+        { "id": 1, "text": "Chọn ô tính và nhấn phải chuột, chọn delete, sau đó chọn Shift cells left, ok.", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Chọn ô tính và nhấn phải chuột, chọn delete, sau đó chọn Entire colum, ok.", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Chọn ô tính và nhấn phải chuột, chọn delete, sau đó chọn Shift cells up, ok.", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Chọn ô tính và nhấn phải chuột, chọn delete, sau đó chọn Entire row, ok."
+  },
+  {
+    "number": 90,
+    "type": "multichoice-multi",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Để tìm các vùng có sử dụng công thức, bạn sử dụng lựa chọn nào? (Chọn nhiều trả lời)",
+      "answers": [
+        { "id": 0, "text": "Vào Home, Find & Select, chọn Go to, Special, chọn Formular", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Vào Home, Find & Select, chọn Select Objects", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Vào Home, Find & Select, chọn Go to Special, chọn Formulas", "is_correct": true, "is_selected": false },
+        { "id": 3, "text": "Vào Home, Find & Select, chọn Formulas", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answers are: Vào Home, Find & Select, chọn Formulas, Vào Home, Find & Select, chọn Go to Special, chọn Formulas"
+        }
+    ]
+  }
+}

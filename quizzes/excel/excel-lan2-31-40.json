@@ -1,0 +1,375 @@
+{
+  "quiz": {
+    "metadata": {
+      "started_on": "Monday, 17 November 2025, 5:18 PM",
+      "completed_on": "Monday, 17 November 2025, 5:29 PM",
+      "time_taken": "11 mins 8 secs",
+      "marks": "6.00/100.00",
+      "grade": "0.60 out of 10.00 (6%)",
+      "state": "Finished"
+    },
+    "questions": [
+  
+  {
+    "number": 31,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft Excel 2010, để xem cùng một lúc 2 WorkSheet khác nhau của 1 WorkBook thì",
+      "answers": [
+        {
+          "id": 0,
+          "text": "Vào menu View tại nhóm Window ta chọn Custom Views",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 1,
+          "text": "Vào menu View tại nhóm Window ta chọn Arrange All",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 2,
+          "text": "Vào menu View tại nhóm Zoom ta chọn One Page",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 3,
+          "text": "Vào menu View tại nhóm Window ta chọn New Window sau đó chọn Arrange All để hiển thị 2 cửa sổ WorkSheet",
+          "is_correct": true,
+          "is_selected": false
+        }
+      ]
+    },
+    "feedback": "The correct answer is: Vào menu View tại nhóm Window ta chọn New Window sau đó chọn Arrange All để hiển thị 2 cửa sổ WorkSheet"
+  },
+  {
+    "number": 32,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong các hàm sau hàm là hàm cơ sở dữ liệu:",
+      "answers": [
+        {
+          "id": 0,
+          "text": "DPOW()",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 1,
+          "text": "DLEFT()",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 2,
+          "text": "DGET()",
+          "is_correct": true,
+          "is_selected": false
+        },
+        {
+          "id": 3,
+          "text": "DABS()",
+          "is_correct": false,
+          "is_selected": false
+        }
+      ]
+    },
+    "feedback": "The correct answer is: DGET()"
+  },
+  {
+    "number": 33,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Có mấy cách tạo vùng điều kiện cho hàm các hàm cơ sở dữ liệu:",
+      "answers": [
+        {
+          "id": 0,
+          "text": "3",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 1,
+          "text": "2",
+          "is_correct": true,
+          "is_selected": false
+        },
+        {
+          "id": 2,
+          "text": "1",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 3,
+          "text": "4",
+          "is_correct": false,
+          "is_selected": false
+        }
+      ]
+    },
+    "feedback": "The correct answer is: 2"
+  },
+  {
+    "number": 34,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft Excel, chọn lựa nào sau đây thực hiện việc cắt nội dung hoặc công thức của một khối ô đang chọn và đặt vào Clipboard:",
+      "answers": [
+        {
+          "id": 0,
+          "text": "a. Nhấn Ctrl+Y",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 1,
+          "text": "b. Nhấn Ctrl+Z",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 2,
+          "text": "c. NhấnCtrl+X",
+          "is_correct": true,
+          "is_selected": false
+        },
+        {
+          "id": 3,
+          "text": "d. Nhấn Ctrl+C",
+          "is_correct": false,
+          "is_selected": false
+        }
+      ]
+    },
+    "feedback": "The correct answer is: NhấnCtrl+X"
+  },
+  {
+    "number": 35,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Excel, để đưa vào trang tính các dữ liệu từ Access, bạn sử dụng lựa chọn nào?",
+      "answers": [
+        {
+          "id": 0,
+          "text": "Cả 3 lựa chọn trên đều sai",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 1,
+          "text": "Vào Data\\Get External Data \\ From Acces",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 2,
+          "text": "Vào Data\\From Other Sources \\ chọn Access",
+          "is_correct": true,
+          "is_selected": false
+        },
+        {
+          "id": 3,
+          "text": "Vào Insert\\Object \\ chọn Microsoft Access",
+          "is_correct": false,
+          "is_selected": false
+        }
+      ]
+    },
+    "feedback": "The correct answer is: Vào Data\\From Other Sources \\ chọn Access"
+  },
+  {
+    "number": 36,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Xác định mức khấu hao đều cho các năm :",
+      "answers": [
+        {
+          "id": 0,
+          "text": "a. DDB",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 1,
+          "text": "b. SLN",
+          "is_correct": true,
+          "is_selected": false
+        },
+        {
+          "id": 2,
+          "text": "c. FV",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 3,
+          "text": "d. DB",
+          "is_correct": false,
+          "is_selected": false
+        }
+      ]
+    },
+    "feedback": "The correct answer is: c. SLN"
+  },
+  {
+    "number": 37,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Có mấy cách thực hiện lệnh table",
+      "answers": [
+        {
+          "id": 0,
+          "text": "1",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 1,
+          "text": "4",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 2,
+          "text": "3",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 3,
+          "text": "2",
+          "is_correct": true,
+          "is_selected": false
+        }
+      ]
+    },
+    "feedback": "The correct answer is: 2"
+  },
+  {
+    "number": 38,
+    "type": "multichoice-multi",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Hàm Goal seek dùng để(chon tat ca):",
+      "answers": [
+        {
+          "id": 0,
+          "text": "a. áp dụng trong các bài toán như tính doanh thu hòa vốn, thay đổi một chỉ tiêu chi phí nào đó để có được lợi nhuận như mong muốn, tính tổng chi phí cho tổng chi phí ròng phải trả..",
+          "is_correct": true,
+          "is_selected": false
+        },
+        {
+          "id": 1,
+          "text": "d. áp dụng trong các bài toán giải hệ phương trình",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 2,
+          "text": "b. áp dụng trong các bài toán như tính doanh thu hòa vốn, thay đổi nhiều chỉ tiêu chi phí nào đó để có được lợi nhuận như mong muốn, tính tổng chi phí cho tổng chi phí ròng phải trả..",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 3,
+          "text": "c. áp dụng trong các bài toán giải phương trình một ẩn số",
+          "is_correct": true,
+          "is_selected": false
+        }
+      ]
+    },
+    "feedback": "The correct answers are: a. áp dụng trong các bài toán như tính doanh thu hòa vốn, thay đổi một chỉ tiêu chi phí nào đó để có được lợi nhuận như mong muốn, tính tổng chi phí cho tổng chi phí ròng phải trả.., c. áp dụng trong các bài toán giải phương trình một ẩn số"
+  },
+  {
+    "number": 39,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft Excel 2010, để quay trả lại kết quả từ thao tác vừa thực hiện trên ô đang chọn, lựa chọn nào sau đây là đúng:",
+      "answers": [
+        {
+          "id": 0,
+          "text": "a. Bấm tổ hợp phím Ctrl+Y",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 1,
+          "text": "b. Bấm tổ hợp phím Ctrl+X",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 2,
+          "text": "c. Bấm tổ hợp phím  Ctrl+Z",
+          "is_correct": true,
+          "is_selected": false
+        },
+        {
+          "id": 3,
+          "text": "d. Bấm tổ hợp phím Ctrl+C",
+          "is_correct": false,
+          "is_selected": false
+        }
+      ]
+    },
+    "feedback": "The correct answer is: Bấm tổ hợp phím  Ctrl+Z"
+  },
+  {
+    "number": 40,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Excel, khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi gì?",
+      "answers": [
+        {
+          "id": 0,
+          "text": "#DIV/0!",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 1,
+          "text": "#VALUE!",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 2,
+          "text": "#NAME!",
+          "is_correct": true,
+          "is_selected": false
+        },
+        {
+          "id": 3,
+          "text": "#N/A!",
+          "is_correct": false,
+          "is_selected": false
+        }
+      ]
+    },
+    "feedback": "The correct answer is: #NAME!"
+      }
+    ]
+  }
+}

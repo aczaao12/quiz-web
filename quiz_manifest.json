@@ -1,0 +1,62 @@
+{
+  "quizzes": [
+    
+    
+  {
+    "category": "Excel",
+    "name": "Excel lần 2 câu từ 1-10",
+    "path": "quizzes/excel/excel-lan2-1-10.json"
+  },
+  {
+    "category": "Excel",
+    "name": "Excel lần 2 câu từ 11-20",
+    "path": "quizzes/excel/excel-lan2-11-20.json"
+  },
+  {
+    "category": "Excel",
+    "name": "Excel lần 2 câu từ 21-30",
+    "path": "quizzes/excel/excel-lan2-21-30.json"
+  },
+  {
+    "category": "Excel",
+    "name": "Excel lần 2 câu từ 31-40",
+    "path": "quizzes/excel/excel-lan2-31-40.json"
+  },
+  {
+    "category": "Excel",
+    "name": "Excel lần 2 câu từ 41-50",
+    "path": "quizzes/excel/excel-lan2-41-50.json"
+  },
+  {
+    "category": "Excel",
+    "name": "Excel lần 2 câu từ 51-60",
+    "path": "quizzes/excel/excel-lan2-51-60.json"
+  },
+  {
+    "category": "Excel",
+    "name": "Excel lần 2 câu từ 61-70",
+    "path": "quizzes/excel/excel-lan2-61-70.json"
+  },
+  {
+    "category": "Excel",
+    "name": "Excel lần 2 câu từ 71-80",
+    "path": "quizzes/excel/excel-lan2-71-80.json"
+  },
+  {
+    "category": "Excel",
+    "name": "Excel lần 2 câu từ 81-90",
+    "path": "quizzes/excel/excel-lan2-81-90.json"
+  },
+  {
+    "category": "Excel",
+    "name": "Excel lần 2 câu từ 91-100",
+    "path": "quizzes/excel/excel-lan2-91-100.json"
+  },
+
+    {
+      "category": "General",
+      "name": "General Trivia",
+      "path": "quizzes/general/trivia.json"
+    }
+  ]
+}

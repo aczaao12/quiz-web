@@ -1,0 +1,310 @@
+{
+  "quiz": {
+    "metadata": {
+      "started_on": "Monday, 17 November 2025, 5:18 PM",
+      "completed_on": "Monday, 17 November 2025, 5:29 PM",
+      "time_taken": "11 mins 8 secs",
+      "marks": "6.00/100.00",
+      "grade": "0.60 out of 10.00 (6%)",
+      "state": "Finished"
+    },
+    "questions": [
+  
+  {
+    "number": 21,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Điểm đặc biệt của hàm các hàm CSDL là gì:",
+      "answers": [
+        {
+          "id": 0,
+          "text": "chúng có thể tính tổng rất nhanh",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 1,
+          "text": "Chúng có thể kết hợp được các điều kiện",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 2,
+          "text": "Chúng có thể giải quyết được mọi yêu cầu tính toán",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 3,
+          "text": "chúng có chung một công thức",
+          "is_correct": true,
+          "is_selected": false
+        }
+      ]
+    },
+    "feedback": "The correct answer is: chúng có chung một công thức"
+  },
+  {
+    "number": 22,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Hàm nào để tạo ngày đầy đủ trong excel?",
+      "answers": [
+        { "id": 0, "text": "Month", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "Year", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "Day", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Date", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Date"
+  },
+  {
+    "number": 23,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Khi sử dụng MS Excel 2010, lựa chọn nào sau đây đúng nhất khi muốn bật/ẩn thanh Ribbon:",
+      "answers": [
+        {
+          "id": 0,
+          "text": "Nhấp đúp vào một thẻ (tab) bất kỳ",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 1,
+          "text": "Bấm tổ hợp phím Ctrl+Shift+S",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 2,
+          "text": "Nhấp đúp vào một thẻ (tab) bất kỳ hoặc nhấn chuột phải trên thẻ bất kỳ rồi chọn Minimize the Ribbon",
+          "is_correct": true,
+          "is_selected": false
+        },
+        {
+          "id": 3,
+          "text": "Nhấp đúp vào một thẻ (tab) bất kỳ hoặc bấm Ctrl+Shift+S",
+          "is_correct": false,
+          "is_selected": false
+        }
+      ]
+    },
+    "feedback": "The correct answer is: Nhấp đúp vào một thẻ (tab) bất kỳ hoặc nhấn chuột phải trên thẻ bất kỳ rồi chọn Minimize the Ribbon"
+  },
+  {
+    "number": 24,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Quan sát 4 nhóm tuổi thọ (60,65,70,75) của 16 người ngẫu nhiên, để tính trung bình mẫu, Độ lệch chuẩn, phương sai mẫu, ta dùng lệnh:",
+      "answers": [
+        {
+          "id": 0,
+          "text": "a. Descriptive Statisties",
+          "is_correct": true,
+          "is_selected": false
+        },
+        {
+          "id": 1,
+          "text": "d. Moving Average",
+          "is_correct": false,
+          "is_selected": false
+        },
+        { "id": 2, "text": "b. CORREL", "is_correct": false, "is_selected": false },
+        {
+          "id": 3,
+          "text": "c. Correlation",
+          "is_correct": false,
+          "is_selected": false
+        }
+      ]
+    },
+    "feedback": "The correct answer is: a. Descriptive Statisties"
+  },
+  {
+    "number": 25,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft Excel 2010, hàm If có thể lồngvào nhau bao nhiêu cấp?",
+      "answers": [
+        { "id": 0, "text": "8", "is_correct": false, "is_selected": false },
+        { "id": 1, "text": "6", "is_correct": false, "is_selected": false },
+        { "id": 2, "text": "5", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "7", "is_correct": true, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: 7"
+  },
+  {
+    "number": 26,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Hàm SLN trong nhóm hàm tài chính có công dụng gì?",
+      "answers": [
+        {
+          "id": 0,
+          "text": "tính tiền trả lãi mỗi kì cho ngân hang",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 1,
+          "text": "tính tiền khấu hao đều",
+          "is_correct": true,
+          "is_selected": false
+        },
+        {
+          "id": 2,
+          "text": "tính tiền trả đều hằng tháng",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 3,
+          "text": "tất cả đều sai",
+          "is_correct": false,
+          "is_selected": false
+        }
+      ]
+    },
+    "feedback": "The correct answer is: tính tiền khấu hao đều"
+  },
+  {
+    "number": 27,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trên giao diện MS Excel, phím nào sau đây kết hợp với chữ cái đại diện của thẻ làm việc sẽ gọi đúng thẻ mà người dùng muốn.",
+      "answers": [
+        { "id": 0, "text": "Phím Alt", "is_correct": true, "is_selected": false },
+        {
+          "id": 1,
+          "text": "Phím Shift",
+          "is_correct": false,
+          "is_selected": false
+        },
+        { "id": 2, "text": "Phím Ctrl", "is_correct": false, "is_selected": false },
+        { "id": 3, "text": "Phím Fn", "is_correct": false, "is_selected": false }
+      ]
+    },
+    "feedback": "The correct answer is: Phím Alt"
+  },
+  {
+    "number": 28,
+    "type": "multichoice-multi",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Hàm INDEX dùng để: (chọn tất cả)",
+      "answers": [
+        {
+          "id": 0,
+          "text": "Xác định gía trị của một ô trong bảng tra được xác định bởi chỉ số dòng và cột đã cho",
+          "is_correct": true,
+          "is_selected": false
+        },
+        {
+          "id": 1,
+          "text": "Xác định gía trị của một ô trong bảng tra được xác định bởi hàm match dòng và cột đã cho",
+          "is_correct": true,
+          "is_selected": false
+        },
+        {
+          "id": 2,
+          "text": "Xác định gía trị của một ô trong bảng tra được xác định bởi chỉ số cột và dòng đã cho",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 3,
+          "text": "Xác định gía trị của một ô trong bảng tra được xác định bởi hàm match cột và dòng đã cho",
+          "is_correct": false,
+          "is_selected": false
+        }
+      ]
+    },
+    "feedback": "The correct answers are: Xác định gía trị của một ô trong bảng tra được xác định bởi chỉ số dòng và cột đã cho, Xác định gía trị của một ô trong bảng tra được xác định bởi hàm match dòng và cột đã cho"
+  },
+  {
+    "number": 29,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "Trong Microsoft Excel 2010, để loại bỏ các dòng trùng lắp trong một danh sách?",
+      "answers": [
+        {
+          "id": 0,
+          "text": "a. Dùng lệnh Delete Duplicates",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 1,
+          "text": "b. Tìm đến dòng bị trùng, sau đó thực hiện lệnh xóa.",
+          "is_correct": false,
+          "is_selected": false
+        },
+        {
+          "id": 2,
+          "text": "c. Dùng lệnh Remove Duplicates",
+          "is_correct": true,
+          "is_selected": false
+        },
+        {
+          "id": 3,
+          "text": "d. Dùng lệnh Filter lọc và xóa các dòng trùng",
+          "is_correct": false,
+          "is_selected": false
+        }
+      ]
+    },
+    "feedback": "The correct answer is: Dùng lệnh Remove Duplicates"
+  },
+  {
+    "number": 30,
+    "type": "multichoice-single",
+    "state": "Not answered",
+    "score": 0.0,
+    "content": {
+      "text": "lổi #NA trong hàm Match là do *",
+      "answers": [
+        {
+          "id": 0,
+          "text": "không tìm thấy giá trị dò tìm",
+          "is_correct": true,
+          "is_selected": false
+        },
+        {
+          "id": 1,
+          "text": "giá trị là chuổi",
+          "is_correct": false,
+          "is_selected": false
+        },
+        { "id": 2, "text": "giá trị là số", "is_correct": false, "is_selected": false },
+        {
+          "id": 3,
+          "text": "giá trị không được sắp xếp",
+          "is_correct": false,
+          "is_selected": false
+        }
+      ]
+    },
+    "feedback": "The correct answer is: không tìm thấy giá trị dò tìm"
+       }
+    ]
+  }
+}

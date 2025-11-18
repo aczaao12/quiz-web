@@ -1,0 +1,66 @@
+{
+  "quiz": {
+    "metadata": {
+      "started_on": "Monday, 17 November 2025, 7:00 PM",
+      "completed_on": "Monday, 17 November 2025, 7:05 PM",
+      "time_taken": "5 mins",
+      "marks": "10.00/10.00",
+      "grade": "10.00 out of 10.00 (100%)",
+      "state": "Finished"
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "multichoice",
+        "state": "Correct",
+        "score": 1.0,
+        "content": {
+          "text": "Thủ đô của Việt Nam là gì?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Hà Nội",
+              "is_correct": true,
+              "is_selected": true
+            },
+            {
+              "id": 1,
+              "text": "Hồ Chí Minh",
+              "is_correct": false,
+              "is_selected": false
+            },
+            {
+              "id": 2,
+              "text": "Đà Nẵng",
+              "is_correct": false,
+              "is_selected": false
+            },
+            {
+              "id": 3,
+              "text": "Huế",
+              "is_correct": false,
+              "is_selected": false
+            }
+          ]
+        },
+        "feedback": "The correct answer is: Hà Nội"
+      },
+      {
+        "number": 2,
+        "type": "multichoice",
+        "state": "Correct",
+        "score": 1.0,
+        "content": {
+          "text": "Mặt trời mọc ở hướng nào?",
+          "answers": [
+            { "id": 0, "text": "Đông", "is_correct": true, "is_selected": true },
+            { "id": 1, "text": "Tây", "is_correct": false, "is_selected": false },
+            { "id": 2, "text": "Nam", "is_correct": false, "is_selected": false },
+            { "id": 3, "text": "Bắc", "is_correct": false, "is_selected": false }
+          ]
+        },
+        "feedback": "The correct answer is: Đông"
+      }
+    ]
+  }
+}
